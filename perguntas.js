@@ -1,7 +1,7 @@
 criaCartao(
     'Rôbotica',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quais são os tres pilares da rôbotica?',
+    'Sensoriamento, Atuação e Controle'
 )
 
 criaCartao(
