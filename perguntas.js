@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Rôbotica',
-    'Como a rôbotica pode ajudar na medicina?'
+    'Como a rôbotica pode ajudar na medicina?',
     'Auxilia em cirurgias de alta precisão, reabilitação de pacientes, diagnósticos, fabricação de proteses e automações de automóveis'
 )
 
