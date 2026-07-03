@@ -6,14 +6,14 @@ criaCartao(
 
 criaCartao(
     'Rôbotica',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Como a rôbotica pode ajudar na medicina?'
+    'Auxilia em cirurgias de alta precisão, reabilitação de pacientes, diagnósticos, fabricação de proteses e automações de automóveis'
 )
 
 criaCartao(
     'Rôbotica',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Onde a rôbotica é utilizada?',
+    'Na industria, medicina,agricultura, exploração espacial, segurança e logísticas'
 )
 
 criaCartao(
