@@ -18,17 +18,17 @@ criaCartao(
 
 criaCartao(
     'Física',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que é força?',
+    'É  um empurrão ou um puxão que pode mover ou parar um objeto'
 )
 
 criaCartao(
     'Física',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que é velocidade?',
+    'É a rapidez com que um objeto se movimenta'
 )
 criaCartao(
     'Física',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que é gravidade?',
+    'É a força que atrai os objetospara a terra'
 )
