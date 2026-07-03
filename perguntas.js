@@ -17,18 +17,18 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Física',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Física',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 criaCartao(
-    'Lingua inglesa',
+    'Física',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
